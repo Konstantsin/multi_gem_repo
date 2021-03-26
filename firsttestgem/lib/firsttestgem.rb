@@ -6,6 +6,6 @@ module Firsttestgem
   class Error < StandardError; end
 
   def self.run
-    puts "Executing first test gem"
+    puts "Executing first test gem: chaanges applied"
   end
 end
